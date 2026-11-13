@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Saved copies of the Philips Hue developer documentation (copyrighted; not ours to publish)
+docs/
